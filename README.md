@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">I'm Yiğit ALTUNAY</h1>
 <h3 align="center">&nbsp;</h3>
@@ -17,5 +17,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
-
+### Hi there 👋
 -->
