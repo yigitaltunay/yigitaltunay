@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋</h1>
 <h1 align="center">I'm Yiğit ALTUNAY</h1>
 <h3 align="center">&nbsp;</h3>
-<p align="center"><img src="https://svgshare.com/i/SPi.svg" alt="go" width="40" height="40" /><img src="https://svgshare.com/i/SQ9.svg" alt="javascript" width="40" height="40" /> &nbsp;<img src="https://svgshare.com/i/SQm.svg" alt="python" width="40" height="40" /> <img src="https://svgshare.com/i/SPL.svg" alt="docker" width="40" height="40" />&nbsp;</p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /><img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg" alt="couchbase" width="40" height="40" />&nbsp; <img src="https://svgshare.com/i/SQ9.svg" alt="javascript" width="40" height="40" /> &nbsp;<img src="https://svgshare.com/i/SQm.svg" alt="python" width="40" height="40" /> <img src="https://svgshare.com/i/SPL.svg" alt="docker" width="40" height="40" />&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 
