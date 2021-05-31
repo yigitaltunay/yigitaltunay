@@ -7,7 +7,7 @@
 <p align="center">&nbsp;</p>
 <ul>
   <h3 align="center"style="font-family: 'Raleway', sans-serif;">Personal Hobby Projects List</h3>
-  <li align="center">https://meet.handleapi.com/ | Sentiment analysis with video chat</li>
+  <li align="center">https://handlemeet.com/ | Sentiment analysis with video chat</li>
   <li align="center">https://handleapi.com/ | Serves as a marketplace for users looking for API</li>
 </ul>
 
